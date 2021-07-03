@@ -1,0 +1,10 @@
+body{
+    overflow-x: hidden;
+}
+.besan{
+    width: 200px;
+    height: 200px;
+    border: 0px solid black;
+    border-radius: 107px;
+    margin-left: 30px;
+}
